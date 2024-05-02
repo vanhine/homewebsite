@@ -19,7 +19,7 @@ enableRobotsTXT = true
 
 [params]
   # The description of your website
-  description = "Bear Cub Demo"
+  description = "Adam Van Hine's Personal Website"
   # <a href="https://www.flaticon.com/free-icons/frog" title="frog icons">Frog icons created by Freepik - Flaticon</a>
   # The path to your favicon
   favicon = "images/favicon.png"
