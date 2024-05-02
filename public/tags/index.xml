@@ -8,6 +8,7 @@
     <language>en-us</language>
     <managingEditor>vanhine.adam@gmail.com (Adam Van Hine)</managingEditor>
     <webMaster>vanhine.adam@gmail.com (Adam Van Hine)</webMaster>
+    <copyright>Adam Van Hine (CC BY 4.0)</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

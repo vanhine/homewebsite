@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Leathers on adamvanhine.com</title>
+    <title>Home on adamvanhine.com</title>
     <link>http://localhost:1313/leather/</link>
-    <description>Recent content in Leathers on adamvanhine.com</description>
+    <description>Recent content in Home on adamvanhine.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>vanhine.adam@gmail.com (Adam Van Hine)</managingEditor>
     <webMaster>vanhine.adam@gmail.com (Adam Van Hine)</webMaster>
+    <copyright>Adam Van Hine (CC BY 4.0)</copyright>
     <atom:link href="http://localhost:1313/leather/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/leather/leatherwork/</link>
+      <title>Home</title>
+      <link>http://localhost:1313/leather/first_wallet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>vanhine.adam@gmail.com (Adam Van Hine)</author>
-      <guid>http://localhost:1313/leather/leatherwork/</guid>
-      <description>Leatherwork I love to do leatherworking. Here are some of my projects:</description>
-      <content:encoded><![CDATA[<h1 id="leatherwork">Leatherwork</h1>
-<p>I love to do leatherworking. Here are some of my projects:</p>
+      <guid>http://localhost:1313/leather/first_wallet/</guid>
+      <description>{{ $image:= .Resources.Get &amp;ldquo;first_wallet1.jpg&amp;rdquo; }}</description>
+      <content:encoded><![CDATA[<p>{{ $image:= .Resources.Get &ldquo;first_wallet1.jpg&rdquo; }}</p>
 ]]></content:encoded>
     </item>
   </channel>
