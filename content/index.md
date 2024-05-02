@@ -1,10 +1,10 @@
 ---
 title: "Home"
-menu: "main"
+menus: "main"
 weight: 1
 ---
 
-# ᕦʕ •ᴥ•ʔᕤ
+# :wave: Welcome to my website!
 
 My name is Adam Van Hine and this is my personal page. This is mostly a place
 to show off my various projects and interests. The categories at the top should

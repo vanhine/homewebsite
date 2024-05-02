@@ -1,7 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'adamvanhine.com'
+copyright = "Adam Van Hine (CC BY 4.0)"
 theme = 'hugo-bearcub'
+
+enableEmoji = true
 
 enableRobotsTXT = true
 
@@ -18,6 +21,7 @@ enableRobotsTXT = true
     noClasses = false
 
 [params]
+  madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
   # The description of your website
   description = "Adam Van Hine's Personal Website"
   # <a href="https://www.flaticon.com/free-icons/frog" title="frog icons">Frog icons created by Freepik - Flaticon</a>
