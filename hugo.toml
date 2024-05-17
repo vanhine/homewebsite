@@ -20,6 +20,22 @@ enableRobotsTXT = true
     # and accessibility, see https://web.dev/color-and-contrast-accessibility/
     noClasses = false
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Android Apps"
+    url = "/android/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Leather"
+    url = "/leather/"
+    weight = 3
+
 [params]
   madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
   # The description of your website
