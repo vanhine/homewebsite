@@ -1,6 +1,6 @@
 ---
 title: "Lil' Pouches"
-date: "2020-01-14"
+date: "2023-03-25"
 type: "leather"
 images:
  - "/images/leather/lil-blue1.jpg"
