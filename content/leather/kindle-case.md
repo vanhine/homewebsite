@@ -1,6 +1,6 @@
 ---
 title: "Kindle Case"
-date: "2020-01-14"
+date: "2023-04-20"
 type: "leather"
 images:
  - "/images/leather/kindle-case1.jpg"
