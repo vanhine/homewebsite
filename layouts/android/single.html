@@ -23,7 +23,7 @@
     <h2>Gallery</h2>
     <div class="photo-gallery">
       {{ range .Params.images }}
-      <img src="{{ . | absURL }}" alt="Photo of {{ $.Title }}" style="width:100%; max-width:300px; height:auto;">
+      <img src="{{ . | absURL }}" alt="Photo of {{ $.Title }}">
       {{ end }}
     </div>
   </section>
