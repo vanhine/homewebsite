@@ -3,12 +3,12 @@ title: "Baby Weeks"
 date: "2019-05-16"
 type: "android"
 images:
- - "/images/android/baby-weeks1.jpg"
- - "/images/android/baby-weeks2.jpg"
- - "/images/android/baby-weeks4.jpg"
- - "/images/android/baby-weeks3.jpg"
+ - "android/baby-weeks/baby-weeks1.jpg"
+ - "android/baby-weeks/baby-weeks2.jpg"
+ - "android/baby-weeks/baby-weeks4.jpg"
+ - "android/baby-weeks/baby-weeks3.jpg"
  
-thumbnail: "/images/android/baby-weeks2.jpg"
+thumbnail: "android/baby-weeks/baby-weeks2.jpg"
 apk: "/apps/babyweeks_v_1_0.apk"
 ---
 

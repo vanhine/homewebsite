@@ -3,9 +3,9 @@ title: "Dead Cells Companion"
 date: "2020-03-05"
 type: "android"
 images:
- - "/images/android/dead-cells-wep1.png"
- - "/images/android/dead-cells-info.png"
-thumbnail: "/images/android/dead-cells-wep1.png"
+ - "android/dead-cells-companion/dead-cells-wep1.png"
+ - "android/dead-cells-companion/dead-cells-info.png"
+thumbnail: "android/dead-cells-companion/dead-cells-wep1.png"
 github: "https://github.com/vanhine/DeadCellsCompanion"
 banned: true
 ---

@@ -4,6 +4,8 @@ title = 'adamvanhine.com'
 copyright = "Adam Van Hine (CC BY 4.0)"
 theme = 'hugo-bearcub'
 
+assetDir = 'assets'
+
 enableEmoji = true
 
 enableRobotsTXT = true

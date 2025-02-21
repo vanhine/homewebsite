@@ -3,11 +3,11 @@ title: "QuickDice"
 date: "2017-01-16"
 type: "android"
 images:
- - "/images/android/quickdice1.jpg"
- - "/images/android/quickdice2.jpg"
- - "/images/android/quickdice3.jpg"
- - "/images/android/quickdice4.jpg"
-thumbnail: "/images/android/quickdice1.jpg"
+ - "android/quick-dice/quickdice1.jpg"
+ - "android/quick-dice/quickdice2.jpg"
+ - "android/quick-dice/quickdice3.jpg"
+ - "android/quick-dice/quickdice4.jpg"
+thumbnail: "android/quick-dice/quickdice1.jpg"
 apk: "/apps/quickdice_v_1_0.apk"
 banned: true
 ---

@@ -8,7 +8,12 @@
     <li>
     {{ if .Params.thumbnail }}
       <div class="thumbnail-container">
-        <img class="thumbnail" src="{{ .Params.thumbnail }}" alt="Photo of {{ $.Page.Title }}">
+        {{ $thumbnail := resources.Get .Params.thumbnail }}
+        {{ with $thumbnail }}
+        <img class="thumbncail" src="{{ $thumbnail.RelPermalink }}" alt="Photo of {{ $.Page.Title }}">
+        {{ else }}
+          <p>Shiiittt {{ $thumbnail }}</p>
+        {{ end }}
         <div class="thumbnail-overlay">
           <span>
             <i>

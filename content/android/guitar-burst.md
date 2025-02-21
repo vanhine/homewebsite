@@ -3,11 +3,11 @@ title: "Guitarburst"
 date: "2020-09-09"
 type: "android"
 images:
- - "/images/android/guitarburst-main.jpg"
- - "/images/android/guitarburst-results.jpg"
- - "/images/android/guitarburst-details.jpg"
- - "/images/android/guitarburst-filter.jpg"
-thumbnail: "/images/android/guitarburst-main.jpg"
+ - "android/guitarburst/guitarburst-main.jpg"
+ - "android/guitarburst/guitarburst-results.jpg"
+ - "android/guitarburst/guitarburst-details.jpg"
+ - "android/guitarburst/guitarburst-filter.jpg"
+thumbnail: "android/guitarburst/guitarburst-main.jpg"
 github: "https://github.com/vanhine/Guitarburst"
 ---
 

@@ -3,12 +3,12 @@ title: "Pinch Pouches"
 date: "2023-10-26"
 type: "leather"
 images:
- - "/images/leather/pinch-pouch1.jpg"
- - "/images/leather/pinch-pouch2.jpg"
- - "/images/leather/sunglasses-case1.jpg"
- - "/images/leather/sunglasses-case2.jpg"
- - "/images/leather/sunglasses-case3.jpg"
-thumbnail: "/images/leather/pinch-pouch2.jpg"
+ - "leather/pinch-pouch/pinch-pouch1.jpg"
+ - "leather/pinch-pouch/pinch-pouch2.jpg"
+ - "leather/pinch-pouch/sunglasses-case1.jpg"
+ - "leather/pinch-pouch/sunglasses-case2.jpg"
+ - "leather/pinch-pouch/sunglasses-case3.jpg"
+thumbnail: "leather/pinch-pouch/pinch-pouch2.jpg"
 ---
 
 I got myself some of squeeze frames from Tandy and wanted to make some squeeze pouches. I made this little pouch for my kid using some really beautiful tiedie lambskin leather. She keeps all sorts of treasures in there.
