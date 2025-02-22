@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ if not .Params.menu }}
+<h1>{{ .Title }}</h1>
+<p class="byline">
+  Last Updated: <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+    {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+  </time>
+</p>
+{{ end }}
+<content>
+  {{ .Content }}
+</content>
+{{ with .Site.Params.author.email }}
+  <p>
+    <a href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'>
+      {{ i18n "email-reply" }} ↪
+    </a>
+  </p>
+{{ end }}
+{{ end }}
