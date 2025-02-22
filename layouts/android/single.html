@@ -25,7 +25,10 @@
       {{ range .Params.images }}
       {{ $image := resources.Get . }}
       {{ with $image }}
-        <img src="{{ $image.RelPermalink }}">
+      {{ $resized := $image.Resize "300x" }}
+      <a href="{{ $image.RelPermalink }}" target="_blank">
+        <img src="{{ $resized.RelPermalink }}">
+      </a>
       {{ end }}
       {{ end }}
     </div>
