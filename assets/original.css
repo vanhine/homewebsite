@@ -300,3 +300,10 @@ body {
   .social-icons a:hover img {
     transform: scale(1.1);
   }
+
+  /* Webring */
+
+  .webrings {
+    display: flex;
+    justify-content: center;
+  }
