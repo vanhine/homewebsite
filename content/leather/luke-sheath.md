@@ -1,5 +1,6 @@
 ---
 title: "Luke's Bday Sheath"
+description: "I made a kitchen knife sheath out of leather for my brother's birthday"
 date: "2025-02-05"
 type: "leather"
 images:

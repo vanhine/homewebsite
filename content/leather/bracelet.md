@@ -1,5 +1,6 @@
 ---
 title: "Bracelets"
+description: "I made 2 leather bracelets with copper cores."
 date: "2024-12-19"
 type: "leather"
 images:

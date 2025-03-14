@@ -1,5 +1,6 @@
 ---
 title: "Baby Weeks"
+description: "I made an Android widget to help keep track of how many weeks old your baby is"
 date: "2019-05-16"
 type: "android"
 images:

@@ -1,5 +1,6 @@
 ---
 title: "Polaroid Cases"
+description: "I made a leather case for our polaroid pictures"
 date: "2023-09-19"
 type: "leather"
 images:

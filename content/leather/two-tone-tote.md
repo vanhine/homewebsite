@@ -1,5 +1,6 @@
 ---
 title: "Two Tone Tote"
+description: "I made a two tone tote out of leather"
 date: "2023-12-04"
 type: "leather"
 images:

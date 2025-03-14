@@ -1,5 +1,6 @@
 ---
 title: "QuickDice"
+description: "I made an Android quick tile that rolls a dice"
 date: "2017-01-16"
 type: "android"
 images:

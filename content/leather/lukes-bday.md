@@ -1,5 +1,6 @@
 ---
 title: "Luke's Birthday Wallet"
+description: "I made a leather wallet for my brother"
 date: "2020-01-25"
 type: "leather"
 images:

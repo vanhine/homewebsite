@@ -1,5 +1,6 @@
 ---
 title: "Pen Pouch"
+description: "I made a pen pouch out of leather"
 date: "2024-11-24"
 type: "leather"
 images:

@@ -1,5 +1,6 @@
 ---
 title: "First Wallet"
+description: "My first leather wallet"
 date: "2020-01-14"
 type: "leather"
 images:

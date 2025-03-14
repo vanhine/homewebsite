@@ -1,5 +1,6 @@
 ---
 title: "Kindle Case"
+description: "I made a kindle case out of leather, it looks like an envelope"
 date: "2023-04-20"
 type: "leather"
 images:

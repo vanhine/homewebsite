@@ -1,5 +1,6 @@
 ---
 title: "Passport Book"
+description: "I made a passport book out of leather"
 date: "2024-03-24"
 type: "leather"
 images:

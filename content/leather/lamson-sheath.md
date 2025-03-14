@@ -1,5 +1,6 @@
 ---
 title: "Lamson Sheath"
+description: "I made a sheath for my Lamson vegetable cleaver out of leather"
 date: "2025-02-23"
 type: "leather"
 images:

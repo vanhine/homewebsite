@@ -1,5 +1,6 @@
 ---
 title: "Pinch Pouches"
+description: "I made pinch pouches out of leather"
 date: "2023-10-26"
 type: "leather"
 images:

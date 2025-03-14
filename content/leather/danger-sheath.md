@@ -1,5 +1,6 @@
 ---
 title: "Toothy Sheath"
+description: "I made a sheath for a spiky garden tool"
 date: "2023-09-04"
 type: "leather"
 images:

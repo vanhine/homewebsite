@@ -1,5 +1,6 @@
 ---
 title: "Lil' Pouches"
+description: "I made a couple little pouches out of leather"
 date: "2023-03-25"
 type: "leather"
 images:

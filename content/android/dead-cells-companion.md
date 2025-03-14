@@ -1,5 +1,6 @@
 ---
 title: "Dead Cells Companion"
+description: "I made an Android app to help you with Dead Cells Gear"
 date: "2020-03-05"
 type: "android"
 images:

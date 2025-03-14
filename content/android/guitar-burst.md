@@ -1,5 +1,6 @@
 ---
 title: "Guitarburst"
+description: "I made an app that gives you info about Classical guitar pieces"
 date: "2020-09-09"
 type: "android"
 images:
